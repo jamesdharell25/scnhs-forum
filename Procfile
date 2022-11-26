@@ -1,1 +1,1 @@
-web gunicorn project.wsgl:application --logg-file -
+web gunicorn project.wsgl:application --log-file -
